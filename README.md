@@ -1,5 +1,4 @@
 # week1homework
-# week1homework
 ## Changes to code:
   1. Header 'div' to 'header'.
   1. Navigation portion 'div' tags within the header of the page to 'nav'.
